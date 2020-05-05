@@ -1,0 +1,42 @@
+{
+  "name": "strapi-middleware-socketio",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "strapi",
+    "middleware",
+    "socket.io",
+    "websocket"
+  ],
+  "author": {
+    "email": "zoltan.radics@gmail.com",
+    "name": "Zoltan Radics",
+    "url": "http://zoltanradics.com"
+  },
+  "maintainers": [
+    {
+      "email": "zoltan.radics@gmail.com",
+      "name": "Zoltan Radics",
+      "url": "http://zoltanradics.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoltanradics/strapi-middleware-socketio.git"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
