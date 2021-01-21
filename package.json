@@ -37,6 +37,6 @@
     "npm": ">=6.0.0"
   },
   "dependencies": {
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
